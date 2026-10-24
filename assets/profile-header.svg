@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title description">
+  <title id="title">xinliangle100</title>
+  <desc id="description">Frontend, full-stack practice, and AI-assisted development.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101c2e"/>
+      <stop offset="1" stop-color="#172c3b"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#69d5b2"/>
+      <stop offset="1" stop-color="#7fb5f9"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="220" rx="16" fill="url(#background)"/>
+  <g fill="none" stroke="#b9d6ea" stroke-opacity=".07">
+    <path d="M648 0v220M696 0v220M744 0v220M792 0v220M840 0v220M888 0v220M936 0v220"/>
+    <path d="M624 38h336M624 86h336M624 134h336M624 182h336"/>
+  </g>
+  <rect x="44" y="43" width="29" height="4" rx="2" fill="url(#accent)"/>
+  <text x="44" y="105" fill="#f1f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="650" letter-spacing="-1.5">xinliangle100</text>
+  <text x="46" y="146" fill="#b6c8d8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Frontend · Full-stack practice · AI-assisted development</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m758 75-24 35 24 35M850 75l24 35-24 35M815 69l-22 82"/>
+  </g>
+  <path d="M44 186h872" stroke="#b6c8d8" stroke-opacity=".12"/>
+  <circle cx="46" cy="203" r="2" fill="#69d5b2"/>
+  <circle cx="58" cy="203" r="2" fill="#7fb5f9"/>
+  <circle cx="70" cy="203" r="2" fill="#b6c8d8" fill-opacity=".5"/>
+</svg>
